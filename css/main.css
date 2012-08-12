@@ -1,0 +1,10 @@
+canvas { 
+            border: 2px solid black; 
+     border-radius: 5px;
+            height: 500px; 
+             width: 950px; 
+}​
+
+body {
+	font-family: "Bangers", cursive;
+}
